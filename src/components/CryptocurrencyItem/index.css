@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.crypto-logo-img {
+  width: 40px;
+  margin-left: 10px;
+}
+.currency-value {
+  color: white;
+  margin-right: 30px;
+}
+.crypto-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.crypto-right-elements {
+  display: flex;
+  justify-content: space-between;
+}
+.crypto-right-header {
+  display: flex;
+}
