@@ -20,3 +20,12 @@
 .crypto-right-header {
   display: flex;
 }
+.currency-name {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.crypto-name-container {
+  display: flex;
+}
