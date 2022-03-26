@@ -9,7 +9,7 @@ class CryptocurrenciesList extends Component {
     return (
       <div className="crypto-list-container">
         <div className="crypto-list-header">
-          <h1 className="coin-type">Coin Type </h1>
+          <p className="coin-type">Coin Type </p>
           <div className="crypto-right-header">
             <p className="currency-value-ele">USD</p>
             <p className="currency-value-ele">EURO</p>
